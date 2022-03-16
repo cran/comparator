@@ -1,8 +1,8 @@
 Package: comparator
 Type: Package
 Title: Comparison Functions for Clustering and Record Linkage
-Version: 0.1.1
-Date: 2020-12-09
+Version: 0.1.2
+Date: 2022-03-15
 Authors@R: c(
     person(given = "Neil", 
            family = "Marchant", 
@@ -19,7 +19,7 @@ Description: Implements functions for comparing strings, sequences and
 License: GPL (>= 2)
 Imports: Rcpp (>= 1.0.5), proxy (>= 0.4), methods, clue (>= 0.3)
 LinkingTo: Rcpp
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Encoding: UTF-8
 URL: https://github.com/ngmarchant/comparator
 BugReports: https://github.com/ngmarchant/comparator/issues
@@ -33,7 +33,7 @@ Collate: 'Comparator.R' 'CppSeqComparator.R' 'PairwiseMatrix.R'
         'generalized_mean.R' 'strcompr-package.R' 'util.R'
 Suggests: testthat
 NeedsCompilation: yes
-Packaged: 2020-12-09 09:09:32 UTC; nmarchant
+Packaged: 2022-03-16 07:37:12 UTC; nmarchant
 Author: Neil Marchant [aut, cre]
 Repository: CRAN
-Date/Publication: 2020-12-10 09:10:12 UTC
+Date/Publication: 2022-03-16 09:20:02 UTC
