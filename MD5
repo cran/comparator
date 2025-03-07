@@ -1,6 +1,6 @@
-d8fd8839c8af8cf67f1747acaf81db3d *DESCRIPTION
+af5ee0082a280d896a58f346338875a3 *DESCRIPTION
 ef3002327adfce1b68922e639b30228e *NAMESPACE
-21753f371f6936ace0e7cd38d6f11005 *NEWS.md
+bdd05ac599a486fba9ab38cc6bd8516d *NEWS.md
 d8a99022624438af66808bd509e2a618 *R/BinaryComp.R
 f776420c91ec32a8fe93562954fd9ae0 *R/Chebyshev.R
 8d85c2e080ef5a9b9607b929eb0b434d *R/Comparator.R
@@ -65,11 +65,10 @@ a1b3eefcd709589d42344e7aa739923a *man/hmean.Rd
 0a18c333e99fcde3e25580bb4689ba8f *src/DamerauLevenshtein.h
 3c49cd3d154b3862f0ed8f43ca9c6ba1 *src/Hamming.h
 0037d4610d9242d21ae56ad069656fd9 *src/IComparator.h
-5ff44e6f58177851ca2998b525db0528 *src/Jaro.h
+49eeaafd254892fe398ff93ad7f8638f *src/Jaro.h
 d20bf695ee0dcfeeede611fff836ea5b *src/JaroWinkler.h
 81422cfd015cae6b97ce6f2ac7778bfb *src/LCS.h
 f8e59ad5b0fca81dc34229e1425cb1a7 *src/Levenshtein.h
-2b976e01b4c2e25ad17411a3d6ea294b *src/Makevars
 e1eb5ad1da1c923d2600effa88f01fd6 *src/OSA.h
 fec81512a053ceda8508bf23b1bfa155 *src/PairwiseMatrix.h
 ea2d1344629ebf8d141d53faf4cd37fc *src/RcppExports.cpp
