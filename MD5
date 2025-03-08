@@ -1,11 +1,11 @@
-af5ee0082a280d896a58f346338875a3 *DESCRIPTION
+29d2bd73784c180775356230cda67353 *DESCRIPTION
 ef3002327adfce1b68922e639b30228e *NAMESPACE
-bdd05ac599a486fba9ab38cc6bd8516d *NEWS.md
+77be252c9897c56331f962b7eee7218a *NEWS.md
 d8a99022624438af66808bd509e2a618 *R/BinaryComp.R
 f776420c91ec32a8fe93562954fd9ae0 *R/Chebyshev.R
 8d85c2e080ef5a9b9607b929eb0b434d *R/Comparator.R
 df06667a45c2734431997d93ef995949 *R/Constant.R
-4498429fbcaffb2f9781f6174458cf9a *R/CppSeqComparator.R
+db19b717b612966ecef06cac8b8b84f7 *R/CppSeqComparator.R
 413fdb57ca3abb4744559411ac625a70 *R/DamerauLevenshtein.R
 fb5f7f503a5820ef981bfffa7158ec01 *R/Euclidean.R
 a7fb66817d80319348b2e002d05590b3 *R/FuzzyTokenSet.R
@@ -64,7 +64,7 @@ a1b3eefcd709589d42344e7aa739923a *man/hmean.Rd
 1178b5ab312b86291b500b9de583005f *src/Constant.h
 0a18c333e99fcde3e25580bb4689ba8f *src/DamerauLevenshtein.h
 3c49cd3d154b3862f0ed8f43ca9c6ba1 *src/Hamming.h
-0037d4610d9242d21ae56ad069656fd9 *src/IComparator.h
+fa1adff6281aaa2a6c248a08c3b00f74 *src/IComparator.h
 49eeaafd254892fe398ff93ad7f8638f *src/Jaro.h
 d20bf695ee0dcfeeede611fff836ea5b *src/JaroWinkler.h
 81422cfd015cae6b97ce6f2ac7778bfb *src/LCS.h
